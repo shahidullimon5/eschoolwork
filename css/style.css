@@ -1,0 +1,81 @@
+/*common start*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400px;
+	color: #000000;
+}
+/*common end*/
+/*header start*/
+header{
+	background-color: #F0FFF0;
+	padding: 5px 0;
+}
+.c_nav{}
+.logo{}
+.ntoggle:focus{
+	box-shadow: none;
+}
+.menu ul li a{
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000 !important;
+	line-height: 24px;
+	padding: 0 25px !important;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+.btn_common{
+	background: #21B573;
+	border-radius: 33px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif; 
+}
+.btn_common:hover{
+	background-color: #FD511A;
+	color: #FFFFFF;
+}
+.btn_signin{
+	width: 105px;
+	height: 45px;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 60px 0 80px;
+	background-color: #F0FFF0;
+}
+.b_text{
+	
+}
+.b_light{
+	color: #FD511A !important;
+	line-height: 24px;
+}
+.b_text h1{
+	margin: 10px 0 20px;
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 70px;
+}
+.b_text h1 span{
+	color: #21B573;
+}
+.b_ptext{
+	line-height: 36px;
+}
+.btn_link{
+	margin-top: 15px;
+	width: 150px;
+	height: 45px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b_img{
+	
+}
+
+
+/*banner end*/
